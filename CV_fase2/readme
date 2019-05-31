@@ -1,0 +1,1 @@
+Second phase of the car plate reading project, in this phase the program tries to read plates from real cars photographed under different circumstances and shows the percentatge of how many letters and numbers has been recognized in total.
