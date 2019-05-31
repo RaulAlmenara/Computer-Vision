@@ -1,9 +1,0 @@
-Second phase of the car plate reading project, in this phase the program tries to read plates from real cars photographed under different circumstances and shows the percentatge of how many letters and numbers has been recognized in total.
-
-FindPlate.m is the function used to search and find within the image read.
-
-MainTest.m is the main code where all the functions are executed and thus searches for the car plates in all of the images of the "plates" folder, identifies as many numbers or letters from each plate that it can and prints the result.
-
-ReadPlate.m is the function used to read the letters or numbers of a plate to compare them with the base images inside the "letters" folder.
-
-TestPlateRecognition.m is a reduced version of the main used to try if the program works correctly reading only the plate introduced as parameter.
