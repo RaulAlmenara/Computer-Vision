@@ -1,1 +1,4 @@
 The first phase of a MatLab project whose function is to identify and properly read car plates letters and numbers under a controlled environment
+
+ReadPlate.m is the function tha reads the plate image passed as parameter at the beginning of the code.
+TestPlateRecognition.m is the main program which tries to identify the letters and numbers from the plate and prints them.
